@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00013 ***************************
+********************************************************************************
+
+                          - HAVING AWESOME VACATION -                           
+
+00... CLEAN UP ( MAKE_SURE | ROOM ) => make nice
+
+01... HAVE ( MAKE_SURE | PARK_TICKET ) => make worse
+
+02... HIRE -- TAKE -- LEAVE ( MAKE_SURE | SOMEONE | CARE | HOUSE ) => make
+      unattended
+
+03... PLAN STAY -- MAKE -- MAKE ( HOTEL | SURE_RESERVATION ) => sure clean
+
+04... PACK ( CLOTHES | ONE_NEW_PAIR | DAY ) => new extra
+
+05... BRING ( COMFORT | PILLOW_AND_BLANKET | OTHER_COMFORT_ITEM ) => other
+
+06... CHOOSE -- SET UP ( HOTEL | BED ) => comfortable
+
+07... BRING -- NEED ( THEME_PARK | CAMERA | COMFORTABLE_FOOD | SNACK |
+      SOUVENIR_MONEY | ANYTHING ) => worth long comfortable
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 9751.99485 ms                                                          |
+|                                                                              |
+| New concepts:  34                     Total concepts:  704                   |
+| New relations: 398                    Total relations: 5069                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00013 ****************************
+********************************************************************************

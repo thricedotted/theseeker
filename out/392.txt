@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00097 ***************************
+********************************************************************************
+
+                            - BEING PINK PUNK GIRL -                            
+
+00... ??? ( GO | STRIPE ) => pink wear
+
+01... STUD ( WEAR_BLACK_JEAN | TROUSER | BELT ) => pink spiked hot black
+      wear
+
+02... WEAR -- IS ( TEE_SHIRT ) => pink black
+
+03... ??? ( PAINT_NAIL ) => pink such alternate black
+
+04... STICK ( MAKE_SURE_GIRL_BOXER | TOP | TROUSER ) => pink make good
+
+05... ??? ( WEAR_BLACK_TRAINER ) => black wear
+
+06... MAKE ( OWN_TIE ) => pink own old secure black striped
+
+07... ??? ( DYE_HAIR ) => pink extreme
+
+08... MAKE UP ( WEAR_DARK_EYE ) => dark great freaky wear
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 1790.42411 ms                                                          |
+|                                                                              |
+| New concepts:  12                     Total concepts:  2485                  |
+| New relations: 168                    Total relations: 29326                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00097 ****************************
+********************************************************************************

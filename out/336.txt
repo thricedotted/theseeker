@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00083 ***************************
+********************************************************************************
+
+                      - INSTRUCTING TEEN ON HOW TO DRIVE -                      
+
+00... ALWAYS MAKE -- GET -- PERMIT -- BEGIN INSTRUCT -- IS REQUIRE (
+      SURE_TEEN | OR_LEARNER | ANYTHING | TEEN ) => sure
+
+01... MAY HAVE LEARN ( CONDUCT_EXTENSIVE_REVIEW | TEEN | RULE | ROAD | OR |
+      DRIVE_INSTRUCTOR ) => extensive manual driving
+
+02... IS ALWAYS BEST BEGIN ( INSTRUCTION | EMPTY_PARK_LOT ) => empty
+      comfortable
+
+03... WILL DRIVE -- START -- EXPLAIN ( TEEN_BASIC_FUNCTION | CAR | INSIDE |
+      INSTRUCTION ) => basic
+
+04... MIRROR ( TEEN | CAR_WORK | LIGHT | SEAT_BELT | WIPER | BLINKER | HORN
+      | EMERGENCY_LIGHT | STEER_WHEEL | SEAT_ADJUSTMENT | DEFROSTER ) =>
+      such
+
+05... INSTRUCT -- ALWAYS STAY -- MAKE -- DO ( TEEN | PASSENGER_SEAT |
+      PATIENT | SHOUT | TEEN ) => nervous calm
+
+06... TELL -- START -- GET -- TEACH -- BRAKE ( TEEN | CAR | FEEL | CAR |
+      TEEN_FEEL | ACCELERATE | SMOOTHNESS ) => !null
+
+07... IS DRIVE -- IS -- GIVE -- FINISH ( TEEN | PARK_LOT | STREET | LOT |
+      TIP_AND_POINTER | LESSON ) => !null
+
+08... ENCOURAGE -- KEEP PRACTICE ( TEEN ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 1843.49298 ms                                                          |
+|                                                                              |
+| New concepts:  32                     Total concepts:  2220                  |
+| New relations: 490                    Total relations: 24798                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00083 ****************************
+********************************************************************************

@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00073 ***************************
+********************************************************************************
+
+             - HAVING STABLE AND LONG TERM RELATIONSHIP WITH GIRL -             
+
+00... DO ( SCHOOL ) => uncomfortable clingy
+
+01... JUST RING -- WANT -- DO BLANK ( WEEKEND ) => !null
+
+02... JUST HAVE ( WEEKEND | ONE_ONE_HOUR_CONVERSATION | INTERNET ) => fine
+      more
+
+03... IS -- LEARN ( BIRTHDAY ) => !null
+
+04... DO BUY -- DO TREAT ( EVERYTHING ) => little
+
+05... TAKE ( ADVICE ) => !null
+
+06... ASK ( TALK | FRIEND | QUESTION ) => make
+
+07... GO ( REGULAR_DATE ) => regular
+
+08... HELP -- HELP -- DO ( STUDY | EXAM | HOMEWORK ) => !null
+
+09... HAVE ( OWN_LIFE ) => own
+
+10... DO LET ( BOSS ) => !null
+
+11... HAVE -- SAY ( FEW_ARGUMENT ) => few first
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2293.27011 ms                                                          |
+|                                                                              |
+| New concepts:  9                      Total concepts:  2081                  |
+| New relations: 147                    Total relations: 22772                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00073 ****************************
+********************************************************************************

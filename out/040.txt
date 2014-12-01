@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00009 ***************************
+********************************************************************************
+
+                     - CREATING SKIN CARE REGIMEN (TEENS) -                     
+
+00... KNOW ( SKIN_TYPE ) => sensitive
+
+01... CLEANSE ( SKIN | DAY ) => !null
+
+02... REMOVE ( FACE ) => !null
+
+03... ??? ( OILY_SKIN ) => better oily
+
+04... ??? ( DRY_SKIN ) => better dry own natural
+
+05... ??? ( SENSITIVE_SKIN ) => harmful sensitive cold natural take
+
+06... ??? ( COMBINATION_SKIN ) => !null
+
+07... MOISTURIZE ( SKIN ) => sure more
+
+08... ??? ( MASK | FLAWLESS_SKIN ) => heavy brown natural better flawless
+      organic cold optional
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 1763.73196 ms                                                          |
+|                                                                              |
+| New concepts:  27                     Total concepts:  587                   |
+| New relations: 122                    Total relations: 3846                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00009 ****************************
+********************************************************************************

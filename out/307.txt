@@ -1,0 +1,60 @@
+  o     o   x  x            oo              x           ox  x  o        x  o    
+ o     xx o  o           xx     x       ox  x  x        o x o       o      ox   
+   x    ox o        xx   o    o         x  xx o x  o    o  x  o    o  o         
+ o              ox       oxx x   o  xx     x    x           o  o   x xo    o   o
+            x       ox x x    o  o x   x         o  x   x xxx          x  xox x 
+   o     x        o     o        x       o             o o    o ox      x       
+x           xo  o    x      o       o o xo x  o o      o o  oo  x     x         
+ o   x          x     o    o o            xx o  o xx  o     oxx   x    o  o     
+xx o ox        o   o    xox              o o x xo    o          o               
+      o  x       x x        x x     x x o      x ox   x        o   x    x       
+o                       x    x        o       x                  o o   o      x 
+o xox            x  x   o   ox o  x        o x              x        x          
+       x   xo   o        x  x   oo      xx       x    xo            o           
+   xo          x    o  o             o            o o     x x  ox     o   x     
+ x  x  x  ox o       x  xx    x      o         o    o  x        o       o       
+  o             o  o xx x  x  x       o        x   o x   o  x   o  o       x    
+    x  o         o x          x     x          o  xo   o          o   x x  x x  
+      o      x  x o x   x  x   o o   x           o   x   ox o  o   oo           
+     x o    o      xo   x o      o        x           oo     x   x      x       
+          x         o    x x   o ox   o   x o   o     xo                   x o  
+   o     o  o  o  o  o             x       o    x                   x          x
+ x            o      ox                 xo  x x     x   xx    xo x              
+     x    o     x     ox   xox    o  ox          o  o  x       xo  x    x  x  x 
+   x x  x      x o    x   x  x   o x    o   o   xo  x   o           oo   oxo   x
+xo       oo   o              o    o  o x          o       x           o   o     
+        x   o                o   o o   o                    oxo    x x   oo     
+              xo   x  o      o        x       x             x    o   o        x 
+        ox o o o     o            o    o        o         x   x   x         x   
+     x o o    o      x     x    x   x           x     x    o  x              o  
+    o    x     x o      xo x   x x   x          x      x   x       x        o  o
+   o xx         o   o x          x    o o x    o  o               x        x    
+              x        x  o    o o x  x                           x           o 
+   ooo            xo    x                      x oo    x                     o o
+     o  o             o                  o o  x                o        o    x  
+          oo x  x  o x    xx   o x                    xo     xox    o   o     x 
+    o  x    o        xx  o   o  x      x     x  x o  x o   o    ox x   o        
+x        o       x   o  x   o      o       xx   xx    ox o   x       xo   o   x 
+   x      x   x o x            x   x o  o  x   o   o o  o  ox               o ox
+      x       x xx  o  o  o  x xoo  x        x   x  o    o             o      x 
+   ox    x   o  x  o                x   o          ox    o  o          xx  x   o
+ o  x    xx o   x      o x   o      o   x       o  x    x            x      x xo
+   o  x       o o              x x       x  x                x      xo    x     
+         x x  o   o    x       o  x    o x    x  x o   x   x  o          xx o  o
+     o x o oo       x o   oo   x  x       x   ox      x  o oo      o    x   x o 
+         x      oox  x        o       x    o ox         ox       o     x x      
+    x     x  x  o    x                   o  o o   x                  ox    x   o
+                   o      o      o o x         x         oo  o   o     xx   o   
+xx        x  x         o          o       o     x        xx  x   oo   x o x     
+x       xx     x o   o x    x     o          x  x  o          o  x        x  xx 
+     x    x         o     xo     x  x  x xo    o     x  x x      xx   o       o 
+o    x            o  o     x        o  xx    oo  x     x  oo  x o     o   o   o 
+            o x          oo     xx       xx          o             o  xo  o  x  
+ x    x     o  x      o  x  xxx  o     o     xo        x o   x  x       o     x 
+o  xx   x  o   x  o     oo x  o    xxo     x        x   ox x   xx          o    
+o      o      x      o      o   o  x   o  o           x     o x         x o x   
+ x    x    o   o    x    o x     o   o x  o   oo                            o  x
+   xo     o                 x x  x  x                    o    o                x
+            xx x x o       x      x   x xo     x  o     oo o              o     
+   o             ox o o   o x x      x    x    x    o x       x   ox            
+ x xooo                    x     ox            x      x            o     x      

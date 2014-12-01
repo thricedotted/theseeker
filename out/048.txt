@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00011 ***************************
+********************************************************************************
+
+                     - PREPARING FOR PROM DRESS SHOPPING -                      
+
+00... HAVE ( MAKE_SURE | ENOUGH_MONEY ) => make enough overpriced
+
+01... WEAR -- PLAN ( MAKE_SURE | RIGHT_UNDERWEAR | DRESS | BUY ) => make
+      right
+
+02... PREPARE TRY ( LOT | DIFFERENT_STYLE ) => different open
+
+03... LISTEN ( STAFF | PROM_DRESS_SHOP ) => !null
+
+04... TRY ( DRESS | HEEL ) => real
+
+05... THINK ( SKIN_TONE ) => such colour white
+
+06... IS -- WILL -- GROW ( THINK | FIT | PROM ) => likely
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 5399.91713 ms                                                          |
+|                                                                              |
+| New concepts:  21                     Total concepts:  653                   |
+| New relations: 211                    Total relations: 4518                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00011 ****************************
+********************************************************************************

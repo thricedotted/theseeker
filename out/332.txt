@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00082 ***************************
+********************************************************************************
+
+                         - GETTING ON MOM'S GOOD SIDE -                         
+
+00... NEVER RAISE ( VOICE ) => !null
+
+01... NEVER TALK ( *** ) => !null
+
+02... ALWAYS TELL -- LOVE -- IS -- HELP -- ADD ( MUCH |
+      MOST_BEAUTIFUL_AND_EXQUISITE_CREATURE | EARTH ) => beautiful much
+      exquisite
+
+03... ??? ( BIRTHDAY_CARD | TEN_YEAR | AGE | BIRTHDAY | MOM ) => younger
+      happy
+
+04... ALWAYS COMPLIMENT ( *** ) => !null
+
+05... DO MAKE -- CLEAN UP ( SIBLING | MESS ) => !null
+
+06... DEBATE -- ALWAYS AGREE ( SOMETHING ) => !null
+
+07... ??? ( TEAM ) => !null
+
+08... DO ( SPOIL_BRAT ) => spoiled
+
+09... DO EVER THROW ( TANTRUM ) => old friendly
+
+10... HELP ( OFFER | HOUSE ) => !null
+
+11... ALWAYS HAVE ( LITTLE_QUALITY | TIME | CHAT_ABOUT_GOOD_MEMORY | DAY )
+      => little good
+
+12... NEVER FIGHT ( SIBLING ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 3324.40996 ms                                                          |
+|                                                                              |
+| New concepts:  15                     Total concepts:  2188                  |
+| New relations: 171                    Total relations: 24308                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00082 ****************************
+********************************************************************************

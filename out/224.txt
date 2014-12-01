@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00055 ***************************
+********************************************************************************
+
+                          - BEING FRIENDS WITH BOYS -                           
+
+00... JOIN -- HAVE ( GROUP | BOY ) => likely
+
+01... FIND -- CAN RELATE ( COMMON_INTEREST ) => great common
+
+02... FIND -- WILL KNOW -- TALK ( AMBIENT_CONVERSATION | OTHER_TEEN ) =>
+      other
+
+03... START ( CONVERSATION | BOY | BAND_OR_OTHER_GROUP ) => other
+
+04... SAY -- CAN ( ATTEMPT | SOMETHING ) => funny
+
+05... THINK WOULD -- HANG ( PERSON ) => interesting
+
+06... JUST ACT ( *** ) => other
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 9558.07614 ms                                                          |
+|                                                                              |
+| New concepts:  5                      Total concepts:  1771                  |
+| New relations: 105                    Total relations: 18344                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00055 ****************************
+********************************************************************************

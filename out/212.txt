@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00052 ***************************
+********************************************************************************
+
+           - MAKING STUDYING BIBLE MORE INTERESTING FOR YOUNG TEENS -           
+
+00... START ( GAME ) => !null
+
+01... MOVE ( GAME | GROUP | RELAX | COMFORTABLE_SET ) => great comfortable
+
+02... ??? ( PROVIDE_SNACK | FOOD ) => provide
+
+03... PICK ( INTEREST_SHORT_BIBLE_PASSAGE ) => interesting short
+
+04... ANALYZE ( PASSAGE | GROUP ) => different
+
+05... RELATE ( MEAN | PASSAGE | LIFE | TEENAGER | INSTANCE ) => other
+
+06... END -- USE -- ALLOW -- TURN -- IMPLY -- IS -- MAKE ( QUESTION |
+      EXPERIENCE | SECOND | GEAR | PERSONALIZE_CONNECTION | GOD | DAILY_LIVE
+      | WORD | BIBLE ) => real open possible daily personalized revealed
+
+07... TAKE -- AVOID ( QUESTION | VOTE | POLL ) => !null
+
+08... PRAY ( GROUP | END | CLASS ) => similar have
+
+09... KEEP ( RECORD ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 7847.13507 ms                                                          |
+|                                                                              |
+| New concepts:  29                     Total concepts:  1736                  |
+| New relations: 581                    Total relations: 17707                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00052 ****************************
+********************************************************************************

@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00038 ***************************
+********************************************************************************
+
+                      - PREPARING FOR END OF SCHOOL YEAR -                      
+
+00... ??? ( MAKE | FINAL_WEEK | SCHOOL ) => most final
+
+01... ??? ( REVIEW_CHILD | PROGRESS ) => many last
+
+02... ??? ( SCHEDULE_FINAL_MEET | DISCUSSION | TEACHER ) => final
+
+03... HELP -- STAY -- GAIN ( CHILDREN | SCHOOL | FULL_BENEFIT | FINAL_DAY |
+      CLASSROOM ) => full motivated final
+
+04... ASK ( TEACHER | READ_LIST | SUMMER ) => specific appropriate reading
+      able
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 6234.83205 ms                                                          |
+|                                                                              |
+| New concepts:  10                     Total concepts:  1515                  |
+| New relations: 138                    Total relations: 14547                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00038 ****************************
+********************************************************************************

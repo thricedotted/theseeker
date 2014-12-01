@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00053 ***************************
+********************************************************************************
+
+                    - ACTING COLD SO HE WON'T FALL FOR YOU -                    
+
+00... TALK -- SAY -- DO SHOW -- LISTEN ( EMOTION ) => interested distant
+
+01... IGNORE -- SEE ( *** ) => busy
+
+02... ASK ( ANYTHING ) => brief rude
+
+03... AVOID -- SIT ( COMMON_FRIEND | CLASS_OR_WORK_PLACE ) => common
+
+04... DO HAVE ACTUALLY DO -- CAN SIMPLY TELL ( SOMEONE ) => !null
+
+05... IS -- WILL STOP ( GUY ) => !null
+
+06... SAY ( FACT ) => interested clearer
+
+07... IS ( EVERYONE ) => mean
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 6755.35989 ms                                                          |
+|                                                                              |
+| New concepts:  11                     Total concepts:  1747                  |
+| New relations: 139                    Total relations: 17846                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00053 ****************************
+********************************************************************************

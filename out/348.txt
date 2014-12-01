@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00086 ***************************
+********************************************************************************
+
+                    - GETTING LITTLE KIDS TO LISTEN TO YOU -                    
+
+00... PICK ( BATTLE ) => nitpicked little
+
+01... MAKE -- KNOW -- HAPPEN ( MAKE_PUNISHMENT | ANYTHING ) => make clear
+      concise
+
+02... NOT USE ( DO | BABY_TALK | MATTER ) => elaborate important necessary
+      play
+
+03... SEEM -- USED -- IS ( FULL_NAME | NICKNAME ) => full last effective
+      cliched whole first
+
+04... ??? ( TALK | LEVEL ) => !null
+
+05... MAKE -- ASSUME -- SCARE -- OWN UP ( RESPONSIBILITY ) => !null
+
+06... ??? ( *** ) => consistent
+
+07... UNDERSTAND ( MAKE_SURE | WARD ) => make clear first
+
+08... KEEP -- TALK ( UNFORESEEN_HILARITY | TRY | STRAIGHT_FACE | LITTLE_KID
+      ) => unforeseen straight little prepared
+
+09... ESTABLISH -- MEET -- THEN SOFTEN ( AUTHORITY | LITTLE_KID | FIRST_TIME
+      | VICE_VERSA ) => little first
+
+10... IS -- NEED -- MAKE -- CONTEMPLATE -- TALK ( SOMETHING | CHILD |
+      CHILD_WAIT | NEXT_ACTION ) => serious unacceptable next
+
+11... DO -- ONE -- WILL CATCH -- GET -- DO KEEP SAY -- JUST KEEP SAY (
+      MORE_TIME | TIME | TIME ) => wont more
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 3079.24604 ms                                                          |
+|                                                                              |
+| New concepts:  26                     Total concepts:  2258                  |
+| New relations: 468                    Total relations: 25454                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00086 ****************************
+********************************************************************************

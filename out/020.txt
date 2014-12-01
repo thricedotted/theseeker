@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00004 ***************************
+********************************************************************************
+
+                              - BEING CHIVALROUS -                              
+
+00... ??? ( OPEN_CAR_DOOR ) => !null
+
+01... WILL -- OFFER DROP -- REJOIN ( LONG_WALK | PARK_LOT | OTHER | CURB |
+      PARK_CAR ) => appropriate safe long
+
+02... EXIT -- HOLD -- LET -- ENTER ( BUILD | DOOR | OTHER | LADY ) => happy
+      open respectful first
+
+03... PULL OUT ( CHAIR | TABLE ) => make own comfortable
+
+04... TAKE ( DATE ) => nice
+
+05... ALLOW -- NEVER PAY ( ORDER ) => special first
+
+06... PICK -- GET ( DATE | CAR | KNOCK | DOOR ) => !null
+
+07... SEAT -- ENTER -- LEAVE ( HOME | DATE | RISE | FEET | ROOM ) => ready
+
+08... WALK ( SIDEWALK | PLACE | TRAFFIC_OR_PUDDLE ) => outside closest
+
+09... IS -- OFFER ( COAT_OR_JACKET ) => cold
+
+10... DROP -- WALK ( DOOR ) => safe
+
+11... SEND ( FLOWER_OR_WRITE_HEARTFELT_SIMPLE_NOTE ) => write simple
+      heartfelt brief
+
+12... CARRY ( SHOP | HOLD | BAG ) => most different
+
+13... CARRY -- LET -- GET -- SAY ( SOMETHING ) => heavy
+
+14... ??? ( *** ) => loyal
+
+15... SAY -- WILL ( *** ) => reliable interested call
+
+16... DO MAKE -- CA KEEP ( PROMISE ) => sure free
+
+17... DO THINK -- HIT -- LET -- KNOW ( COURTESY_AND_KINDNESS ) => !null
+
+18... ??? ( COMPLIMENT_WOMAN ) => nice
+
+
+                         --- WARNING: LOG TRUNCATED ---                         
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2338.50408 ms                                                          |
+|                                                                              |
+| New concepts:  116                    Total concepts:  372                   |
+| New relations: 821                    Total relations: 2426                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00004 ****************************
+********************************************************************************

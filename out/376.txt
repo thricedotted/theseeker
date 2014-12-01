@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00093 ***************************
+********************************************************************************
+
+               - HELPING FRIEND WHO WANTS TO RUN AWAY FROM HOME -               
+
+00... ASK -- WANT RUN AWAY IS ( FRIEND | MOTIVATION ) => abusive
+
+01... ASK -- WILL LIVE -- HAVE THINK -- IS ( QUESTION | SOMETHING ) => !null
+
+02... EMPATHIZE ( TRY | FRIEND ) => tough
+
+03... ??? ( SEEK_HELP | TRUST_ADULT ) => trusted
+
+04... ??? ( DO_SOMETHING ) => do
+
+05... DEFINITELY APPLY ( MAJORITY | TEENAGE_RUNAWAY | GIRL | BOY ) =>
+      teenage
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2929.06499 ms                                                          |
+|                                                                              |
+| New concepts:  5                      Total concepts:  2421                  |
+| New relations: 109                    Total relations: 27948                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00093 ****************************
+********************************************************************************

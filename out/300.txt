@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00074 ***************************
+********************************************************************************
+
+                            - BECOMING PROM QUEEN -                             
+
+00... ??? ( BEFRIEND | MANY_PEOPLE ) => many possible
+
+01... INVOLVE ( DIFFERENT_ACTIVITY ) => few different varied common talented
+
+02... ??? ( ROLE_MODEL | SCHOOL ) => active many good
+
+03... STAY ( TROUBLE ) => last absolute
+
+04... ??? ( PROM_COMMITTEE ) => !null
+
+05... GET NOMINATE ( *** ) => most second
+
+06... START ( CAMPAIGN ) => big key
+
+07... ??? ( GET_WORD ) => !null
+
+08... ??? ( DRESS_PART ) => certain last least
+
+09... FIND ( PERFECT_DRESS ) => perfect
+
+10... GET ( HAIR_AND_MAKEUP ) => perfect other more
+
+11... HAVE ( GREAT_TIME ) => great
+
+12... ??? ( GRACIOUS_DESERVE_PROM_QUEEN ) => humble friendly deserving
+      gracious
+
+13... WIN -- LOSE ( *** ) => s important gracious
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 5991.67180 ms                                                          |
+|                                                                              |
+| New concepts:  36                     Total concepts:  2117                  |
+| New relations: 436                    Total relations: 23207                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00074 ****************************
+********************************************************************************

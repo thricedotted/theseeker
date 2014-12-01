@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00016 ***************************
+********************************************************************************
+
+                          - LOOKING LIKE TOM KAULITZ -                          
+
+00... GET -- DO -- DIE -- DARK ( HAIR | BROWN_STREAK ) => brown blond
+
+01... HAVE -- SO DO EXPECT LOOK ( TOM | DREADLOCK | FOOT | M | LENGTH |
+      DREAD ) => !null
+
+02... ??? ( SHOP | BAGGY_CLOTHES ) => baggy
+
+03... HAVE ( FUNNY_AND_FRIENDLY_PERSONALITY ) => funny friendly
+
+04... GET ( TRY | TOM | KIND | MUSIC ) => influential
+
+05... PICK UP -- IS ( TRY | TOM | NATIVE_LANGUAGE ) => german native
+
+06... DO -- HAVE ( HAVE_BROWN_EYE | GET_BROWN_CONTACT ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2388.24415 ms                                                          |
+|                                                                              |
+| New concepts:  29                     Total concepts:  759                   |
+| New relations: 261                    Total relations: 5570                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00016 ****************************
+********************************************************************************

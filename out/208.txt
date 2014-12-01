@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00051 ***************************
+********************************************************************************
+
+                        - MAKING FRIENDSHIP ON PURPOSE -                        
+
+00... PURPOSELY TRY IMPROVE -- ARGUE ( BEHAVIOR_AND_THUS_FRIENDSHIP | DEMAND
+      | PERSONALITY ) => needy unnecessary
+
+01... GET KNOW ( *** ) => other best
+
+02... ??? ( TRUST ) => other
+
+03... ??? ( USE_GOOD_JUDGMENT ) => use good
+
+04... FORGIVE ( *** ) => !null
+
+05... SET ( BOUND ) => !null
+
+06... DO ( FRIEND_INTEREST | OR ) => protective same
+
+07... UNDERSTAND ( *** ) => flexible other
+
+08... HEAR ( DO_NOT_QUARREL | RUMOUR ) => angry other
+
+09... LOVE ( FRIEND_MATTER ) => hurtful
+
+10... HELP KEEP ( RESPECT_OTHER_RIGHT | PRIVACY | OTHER_SECRET |
+      DISCUSSION_OR_ARGUMENT | PUBLIC_VIEW ) => public
+
+11... ??? ( SENSIBLE ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 1955.96886 ms                                                          |
+|                                                                              |
+| New concepts:  27                     Total concepts:  1707                  |
+| New relations: 236                    Total relations: 17126                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00051 ****************************
+********************************************************************************

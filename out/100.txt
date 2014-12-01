@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00024 ***************************
+********************************************************************************
+
+                     - KEEPING FRIEND FROM DRIVING DRUNK -                      
+
+00... BECOME ( KEY_CONTROLLER ) => only key drunk
+
+01... CALL ( CAB ) => !null
+
+02... ??? ( *** ) => drunken assertive prepared
+
+03... TURN ( NIGHT | SLUMBER_PARTY ) => hospitable best simplest
+
+04... DECIDE GO OUT -- STAY -- DESIGNATE -- AGREE ( AND_FRIEND | INTEND |
+      WAY | DRIVER ) => sober
+
+05... GET ( DRUNKEN_FRIEND | KEY_AND_DRIVE | FRIEND | CAR_HOME ) => drunken
+      sober
+
+06... HAVE ( DEEP_AND_MEANINGFUL_MOMENT ) => serious meaningful possible
+      deep drunk
+
+07... ASSIGN -- HELP ( OTHER ) => convincing
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 1571.46215 ms                                                          |
+|                                                                              |
+| New concepts:  41                     Total concepts:  1221                  |
+| New relations: 401                    Total relations: 10351                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00024 ****************************
+********************************************************************************

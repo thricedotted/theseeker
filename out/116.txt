@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00028 ***************************
+********************************************************************************
+
+            - DEALING WITH GOING TO SLEEPOVER WHEN YOU HAVE PERIOD -            
+
+00... PACK ( MANY_TAMPON | PAD ) => many use good
+
+01... HAVE ALREADY HAVE -- PROBABLY HAVE ( FRIEND | HER_PERIOD | SUPPLY ) =>
+      awkward her
+
+02... SOMETIMES WEAR -- MAKE -- FEEL ( TIGHTER_JEAN | SUIT | PERIOD ) =>
+      long uncomfortable tighter secure
+
+03... TAKE -- CAN TIE -- HAVE ( SWEATER | JACKET | WAIST | ACCIDENT ) =>
+      safer
+
+04... BRING ( EXTRA_CLOTHES ) => heavy comfortable extra
+
+05... HAVE -- PACK -- CAN MAKE -- HAVE -- FEEL ( MENSTRUAL_CRAMP | ADVIL |
+      TYLENOL | GOOD_TIME ) => menstrual good sure comfortable
+
+06... WORRY ( PERIOD ) => heavy much sure
+
+07... CHANGE -- HERE -- MAKE ( TAMPON_OR_PAD | FRIEND | TIP ) => weird
+      awkward less
+
+08... HAVE -- TELL -- TELL -- KNOW -- WILL ( MOM | FRIEND | MOM | PERIOD |
+      CASE | EMERGENCY ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 4207.56221 ms                                                          |
+|                                                                              |
+| New concepts:  23                     Total concepts:  1314                  |
+| New relations: 477                    Total relations: 11573                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00028 ****************************
+********************************************************************************

@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00006 ***************************
+********************************************************************************
+
+                     - FINDING OUT IF EX STILL LIKES YOU -                      
+
+00... IS -- OBSERVE ( EX | OR ) => same
+
+01... STAY ( NOTICE | EX | TOUCH ) => interested private
+
+02... CHECK OUT -- SEE ( EX | REACTION | OR ) => !null
+
+03... ??? ( NOTICE | EX_TOUCH_LOT ) => !null
+
+04... FIND ( EX_STILL_TALK | FAMILY ) => ready
+
+05... LISTEN ( FRIEND ) => !null
+
+06... GIVE BACK ( NOTICE | EX | STUFF ) => !null
+
+07... GET -- SEE ( EX ) => living angry separate
+
+08... GO ( FIGURE ) => wrong working lame
+
+09... AVOID PANIC ( *** ) => least
+
+10... RECAPTURE -- GO ( OLD_LIFE ) => good old
+
+11... ??? ( MAIL_EX_HANDWRITTEN_LETTER ) => electronic special handwritten
+
+12... RESPOND ( WAIT ) => next nice
+
+13... GO ( INVITE_EX | COFFEE_OR_DRINK | INITIAL_CONTACT ) => initial first
+
+14... GO ( GET ) => wrong make
+
+15... AVOID TRY RECREATE ( OLD_RELATIONSHIP ) => old
+
+16... MAKE ( WISH ) => clear
+
+17... ??? ( GET_DELICIOUS_REVENGE ) => manipulative delicious
+
+18... ??? ( HANG | RESOLVE ) => jealous new
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2068.43591 ms                                                          |
+|                                                                              |
+| New concepts:  89                     Total concepts:  529                   |
+| New relations: 691                    Total relations: 3545                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00006 ****************************
+********************************************************************************

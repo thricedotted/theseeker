@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00075 ***************************
+********************************************************************************
+
+                - PROTECTING YOURSELF FROM STRANGER (FOR KIDS) -                
+
+00... LEARN ( DIFFERENCE | STRANGER | STRANGER ) => bad good uncomfortable
+
+01... APPROACH -- QUICKLY WALK ( STRANGER ) => right trusted
+
+02... SCREAM ( *** ) => !null
+
+03... TELL ( RUN | ADULT | EXAMPLE | PARENT | TEACHER ) => !null
+
+04... BITE -- CAN ( *** ) => painful
+
+05... WILL USE -- TRICK -- GO ( STRANGER | TREAT_OR_TOY | CHILDREN ) =>
+      !null
+
+06... MAY ASK -- HELP -- LOOK ( STRANGER | PET | CARRY_SOMETHING ) => carry
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 11655.23601 ms                                                         |
+|                                                                              |
+| New concepts:  12                     Total concepts:  2129                  |
+| New relations: 232                    Total relations: 23439                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00075 ****************************
+********************************************************************************

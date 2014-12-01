@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00025 ***************************
+********************************************************************************
+
+                       - BEING CUTE NO MATTER WHAT AGE -                        
+
+00... DO -- DO ( PEOPLE | DOOR_MAT ) => like cutest rude polite possible
+      critical mean
+
+01... ??? ( LAUGH_LOT | SMILE ) => cute sure sweet positive friendly happy
+
+02... IS ( ASSET ) => certain cute innocent honest
+
+03... SAY ( *** ) => careful innocent
+
+04... DO ( *** ) => sweet loud
+
+05... PICK ( FIGHT | PEOPLE ) => second innocent
+
+06... KEEP ( JEWELRY_SIMPLE ) => great
+
+07... ??? ( USE_EYE_CONTACT ) => use
+
+08... ??? ( OTHER ) => bubbly interested vivacious happy
+
+09... ??? ( PRACTICE_GOOD_HYGIENE ) => cute good smelly
+
+10... GET -- READ ( SCHOOLWORK | GOOD_GRADE | ONE_BOOK | WEEK ) => good dead
+      least
+
+11... ??? ( DRESS ) => cute outside
+
+12... GIVE ( COMPLIMENT ) => good
+
+13... REALLY -- WANT LIVE -- TRY UNDERSTAND ( REAL_MEAN | LIFE | KIND | LIFE
+      ) => real sweet popular first
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 4465.75594 ms                                                          |
+|                                                                              |
+| New concepts:  40                     Total concepts:  1261                  |
+| New relations: 483                    Total relations: 10834                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00025 ****************************
+********************************************************************************

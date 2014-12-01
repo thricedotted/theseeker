@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00027 ***************************
+********************************************************************************
+
+                      - DEFENDING CHOICE TO BE CHILDLESS -                      
+
+00... LOVE -- REMEMBER ( FAMILY ) => coaxing sane thousandth best endless
+
+01... ??? ( *** ) => firm
+
+02... GIVE -- WISH ( REASON ) => own
+
+03... ALLOW ( FEELING | DISAPPOINTMENT_OR_GRIEF ) => new last
+
+04... REMIND -- HAVE -- SHOULD ( CHILDREN | UNANIMOUS_DECISION ) =>
+      unanimous
+
+05... GIVE ( CAREFUL_AND_HONEST_CONSIDERATION | SUGGESTION ) => congenital
+      last mental dead honest careful
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2631.33693 ms                                                          |
+|                                                                              |
+| New concepts:  23                     Total concepts:  1291                  |
+| New relations: 195                    Total relations: 11096                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00027 ****************************
+********************************************************************************

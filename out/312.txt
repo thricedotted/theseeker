@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00077 ***************************
+********************************************************************************
+
+                            - BEING PRETTY TOMBOY -                             
+
+00... SWIPE ( MAKEUP | MASCARA_AND ) => little wear
+
+01... SHOULD MAKE -- SHOULD PROVIDE ( JEAN | BULK | WARDROBE | PAIR |
+      ENOUGH_VARIETY ) => enough
+
+02... ACQUIRE ( FEW_LOW_KEY_ACCESSORY ) => few low
+
+03... LEARN ENJOY ( SPORT ) => make afraid dirty
+
+04... HAVE ( PROPER_HYGIENE ) => proper sure
+
+05... ??? ( HAVE_FUN ) => have social
+
+06... MAKE -- DO ( *** ) => different afraid happy
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 8520.94579 ms                                                          |
+|                                                                              |
+| New concepts:  0                      Total concepts:  2135                  |
+| New relations: 0                      Total relations: 23483                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00077 ****************************
+********************************************************************************

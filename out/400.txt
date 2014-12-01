@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00099 ***************************
+********************************************************************************
+
+                       - NOT TOING BE SHY AT NEW SCHOOL -                       
+
+00... DO ( *** ) => nervous
+
+01... ??? ( ACT | RELAX ) => comfortable
+
+02... SPEAK ( *** ) => !null
+
+03... INTRODUCE ( OTHER ) => !null
+
+04... IRON -- POLISH -- LOOK ( NEAT_HAIR | UNIFORM | SHOE ) => crisp neat
+      presentable
+
+05... DO WAIT ( *** ) => !null
+
+06... IS -- ASK ( FAVORITE_BAND ) => favorite
+
+07... ??? ( USE_HUMOR ) => funny use
+
+08... DO WANT -- THINK ( MAKE_SURE | LAUGH | OTHER_PEOPLE | JOKE ) => make
+      other stiff
+
+09... REMEMBER -- IS -- WANT MAKE ( EVERYONE | FRIEND ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 8889.55092 ms                                                          |
+|                                                                              |
+| New concepts:  6                      Total concepts:  2498                  |
+| New relations: 122                    Total relations: 29599                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00099 ****************************
+********************************************************************************

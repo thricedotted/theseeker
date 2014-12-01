@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00018 ***************************
+********************************************************************************
+
+                    - TELLING WOMAN YOU'RE NOT INTERESTED -                     
+
+00... TELL ( *** ) => wrong interested inevitable aware
+
+01... CHOOSE ( MAKE | NEUTRAL_LOCATION ) => short outside private neutral
+      such public
+
+02... TELL -- TELL ( HER_TRUTH ) => long
+
+03... GIVE -- HAVE -- TALK ( TIME | FEELING ) => interested important
+
+04... HELP -- CAN ( OFFER ) => interested long
+
+05... LEFT ( EXIT_STAGE ) => !null
+
+06... ??? ( MAKE_CLEAN_BREAK ) => important
+
+07... ALWAYS SPEAK ( OTHER ) => positive bad
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2360.47316 ms                                                          |
+|                                                                              |
+| New concepts:  20                     Total concepts:  818                   |
+| New relations: 297                    Total relations: 6100                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00018 ****************************
+********************************************************************************

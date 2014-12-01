@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00020 ***************************
+********************************************************************************
+
+                  - DEALING WITH DEPRESSION IN RELATIONSHIP -                   
+
+00... ASSURE ( PARTNER ) => big undying
+
+01... AVOID CRITICIZE ( TRY | PARTNER | _DEPRESSION ) => simple s easy
+
+02... NOT THREATEN -- LEAVE ( DO | PARTNER | IDEA ) => depressed tough
+
+03... HELP -- SEEK ( PARTNER | TREATMENT ) => !null
+
+04... ??? ( SEEK_HELP | THERAPY ) => s individual
+
+05... LEARN -- CAN ( EVERYTHING | DEPRESSION ) => best
+
+06... NOT COMPARE ( DO | RELATIONSHIP | OTHER_PEOPLE | _EXPERIENCE ) => s
+      other common same
+
+07... ??? ( PATIENT ) => patient best
+
+08... GET -- SUGGEST ( PARTNER | PHYSICAL ) => physical
+
+09... MAINTAIN ( COMPOSURE_AND_DISTANCE | NEGATIVE_SITUATION ) => depressed
+      positive irrelevant negative trivial
+
+10... KEEP ( *** ) => active social
+
+11... KNOW -- STAND ( MAKE_SURE_PARTNER ) => smartest make grateful
+
+12... KEEP ( COMMUNICATION | AND_PARTNER ) => active maintain open
+
+13... EXPERIENCE ( *** ) => open
+
+14... ??? ( CHALLENGE_OWN_WAY | THINK ) => own
+
+15... MAKE -- STAY ( HARSH_ACCUSATION ) => hasty harsh
+
+16... MAKE -- THINK ( TRY | TIME ) => most wrong unfair best
+
+17... TAKE ( CARE ) => simple enough own general
+
+18... ??? ( SEEK_PROFESSIONAL_HELP ) => professional other much
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 4714.27393 ms                                                          |
+|                                                                              |
+| New concepts:  93                     Total concepts:  927                   |
+| New relations: 914                    Total relations: 7262                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00020 ****************************
+********************************************************************************

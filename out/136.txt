@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00033 ***************************
+********************************************************************************
+
+         - MAKING THINGS RIGHT BETWEEN YOU AND FRIEND AFTER ARGUMENT -          
+
+00... TAKE -- JUST TAKE -- THINK ( SHORT_PERIOD | TIME | TWENTY_MINUTE |
+      REALLY_DEEP_BREATH ) => short deep
+
+01... SEND -- STILL CARE -- JUST NEED -- GET ( MESSAGE | TIME | HEAD ) =>
+      second important mind clear
+
+02... GO -- DISCUSS -- DO LET ( MINUTE | ISSUE ) => main more
+
+03... NEVER LEAVE -- HAVE -- FIX ( DISCUSSION | WAY | PROBLEM ) => least
+
+04... IS -- TAKE -- COME ( GOOD_RELATIONSHIP | WORK ) => successful able
+      good hard new
+
+05... THINK -- IMAGINE GET -- THINK ( *** ) => difficult
+
+06... TRY IGNORE -- PRETEND -- HAPPEN DO ( ISSUE | NOTHING | WORK ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 12796.18788 ms                                                         |
+|                                                                              |
+| New concepts:  18                     Total concepts:  1418                  |
+| New relations: 444                    Total relations: 13229                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00033 ****************************
+********************************************************************************

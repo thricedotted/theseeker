@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00022 ***************************
+********************************************************************************
+
+                              - BEING GIRLY GIRL -                              
+
+00... ??? ( *** ) => ladylike girly awkward try clumsy graceful
+
+01... HAVE ( GREAT_PERSONALITY ) => bubbly great bright girly
+
+02... ??? ( *** ) => selfish nasty ladylike nice
+
+03... ??? ( *** ) => romantic
+
+04... ??? ( UPDATE_MUSIC_STYLE ) => new hot girly aware
+
+05... ??? ( HANG | OTHER_GIRL ) => other girly more
+
+06... ??? ( STOP_SWEAR ) => stop
+
+07... LEARN SPEAK ( *** ) => intelligent
+
+08... DO ( STUFF_FACE | FOOD ) => ladylike good
+
+09... KEEP ( DIARY ) => !null
+
+10... ??? ( *** ) => able important organized
+
+11... CONCENTRATE ( SCHOOL ) => important diligent
+
+12... DO LET -- PUSH AROUND ( *** ) => !null
+
+13... ??? ( READ_MAGAZINE ) => read great
+
+14... HAVE ( SENSE | STYLE ) => important fashionable
+
+15... WEAR ( FEMININE_CLOTHES ) => feminine cute typical
+
+16... FIT ( WEAR_CLOTHE ) => important wear sure
+
+17... HAVE BUY -- DO FEEL ( BRAND_NAME_CLOTHE ) => superior
+
+18... TAKE ( CARE | SKIN ) => mild
+
+19... MAKE UP ( WEAR_LIGHT ) => little wear best
+
+20... ??? ( SHOWER ) => fresh good clean girly daily
+
+                         --- WARNING: LOG TRUNCATED ---                         
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 5234.39407 ms                                                          |
+|                                                                              |
+| New concepts:  155                    Total concepts:  1111                  |
+| New relations: 1271                   Total relations: 8776                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00022 ****************************
+********************************************************************************

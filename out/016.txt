@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00003 ***************************
+********************************************************************************
+
+                        - CHANGING NAME AFTER MARRIAGE -                        
+
+00... GET ( FEW_EXTRA_COPY | MARRIAGE_CERTIFICATE ) => quick few extra
+
+01... FORM -- FILL ( SOCIAL_SECURITY ) => !null
+
+02... ??? ( UPDATE_DRIVER | LICENSE ) => equivalent stop
+
+03... ??? ( UPDATE_NAME ) => new other necessary
+
+04... FINISH ( *** ) => !null
+
+05... START USED ( NEW_NAME ) => new
+
+06... DO NEED ( PROOF | ORDER_SEVERAL_OFFICIAL_COPY | MARRIAGE_CERTIFICATE )
+      => several original official
+
+07... WANT MAKE -- EVIDENCE -- CHANGE ( OTHER_SORT | CHANGE | NAME | NAME |
+      DEED_POLL ) => less other online new bigger previous
+
+08... NOTIFY -- HOLD ( ORGANISATION | BODY | INFORMATION | RECORD ) =>
+      contractual obligated common
+
+09... ??? ( NEW_NAME ) => new only
+
+10... OBTAIN -- IS DESIRE ( SEVERAL_OFFICIAL_COPY | MARRIAGE_CERTIFICATE |
+      PROOF ) => several necessary original official
+
+11... CHANGE ( NAME | DEED_POLL ) => !null
+
+12... ??? ( UPDATE_RELEVANT_ORGANISATION ) => relevant sure
+
+13... ??? ( VISIT_PROVINCE | WEBSITE ) => !null
+
+14... CHANGE ( ELECTION | SURNAME_FORM | PROVINCE_OR_TERRITORY ) => specific
+      surname complete
+
+15... CHANGE ( MARRIAGE_CERTIFICATE | IDENTIFICATION ) => legal maiden
+
+16... ??? ( NEW_NAME ) => new different similar legal
+
+17... CHANGE ( MARRIAGE_CERTIFICATE | IDENTIFICATION ) => !null
+
+
+                         --- WARNING: LOG TRUNCATED ---                         
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 5733.58417 ms                                                          |
+|                                                                              |
+| New concepts:  182                    Total concepts:  256                   |
+| New relations: 1306                   Total relations: 1605                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00003 ****************************
+********************************************************************************

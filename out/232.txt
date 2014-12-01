@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00057 ***************************
+********************************************************************************
+
+                      - SHOWING EMOTION IN RELATIONSHIP -                       
+
+00... CHAT ( WHISPER_SWEET_WORD | EAR ) => sweet romantic more
+
+01... STARE ( DO_LOVE ) => beautiful more
+
+02... GIVE -- MAKE -- WILL WANT ( EXTREMELY_DEEP_AND_EMOTIONAL_TONGUE_KISS |
+      SHORT_SO ) => emotional short deep
+
+03... MAKE -- KNOW -- LOVE -- SEND -- RISE ATTACH (
+      SMALL_ROMANTIC_AND_CUTE_LOVE | CHOCOLATE_HEART | FRESH_RED ) => small
+      cute fresh romantic chocolate
+
+04... CARESS -- FEEL ( TRY_MASSAGE | NECK ) => comfortable
+
+05... SEDUCE -- TRY WEAR ( DATE | CLOTHE | VELVET_RIBBON | LOOSE_PONYTAIL )
+      => loose black red
+
+06... LIKE HIDE -- PUT ( PERFUME | FANTASY_OR_PRINCESS ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 16473.20914 ms                                                         |
+|                                                                              |
+| New concepts:  23                     Total concepts:  1810                  |
+| New relations: 321                    Total relations: 18913                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00057 ****************************
+********************************************************************************

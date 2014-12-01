@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00047 ***************************
+********************************************************************************
+
+                              - HELPING IVF WORK -                              
+
+00... GET -- THOROUGHLY CHECK OUT ( *** ) => regular
+
+01... HAVE -- HAVE -- TEST ( MALE_PARTNER | SPERM | GENETIC_PROBLEM ) =>
+      genetic several unchecked untested chromosomal
+
+02... SEEK -- OFFER ( IVF | CLINIC | CHROMOSOMAL_TEST ) => new exciting
+
+03... ??? ( MAKE_SURE ) => healthy controllable make great funny
+
+04... ??? ( CUT | COFFEE ) => new negative effective pregnant
+
+05... PRODUCE -- HAVE -- GET ( IVF | MORE_BETTER_SIZE_FOLLICLE |
+      HIGHER_CHANCE ) => better ideal higher pregnant more
+
+06... OFFER -- REMEMBER ( USE_CLINIC | BLASTOCYST_TRANSFER | DAY_EMBRYO ) =>
+      good later
+
+07... ??? ( AGE ) => realistic unexplained
+
+08... FINALLY CHOOSE ( FERTILITY_CLINIC | OFFER_PACKAGE_OR_DISCOUNT |
+      MULTIPLE_TREATMENT ) => multiple
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 4459.61714 ms                                                          |
+|                                                                              |
+| New concepts:  36                     Total concepts:  1656                  |
+| New relations: 556                    Total relations: 16492                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00047 ****************************
+********************************************************************************

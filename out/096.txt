@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00023 ***************************
+********************************************************************************
+
+                           - GETTING OVER REJECTION -                           
+
+00... ALLOW -- FEEL ( *** ) => real unique understandable hurt
+
+01... LONG WALK ( PAPER ) => !null
+
+02... STAY ( *** ) => healthy good
+
+03... LOVE DO ( DO_THING ) => good find painful
+
+04... LISTEN ( POSITIVE_MUSIC ) => positive
+
+05... SHARE ( FEELING | REJECTION | SOMEONE_TRUST ) => best
+
+06... MAKE ( LIST | POSITIVE_CHARACTERISTIC ) => positive negative
+
+07... SEE -- IS ( REJECTION ) => abrupt undesirable
+
+08... HEAL ( LET_TIME ) => good let other
+
+09... TAKE -- TRY -- HAVE ALWAYS WANT TRY -- KNIT -- LEARN ( OPPORTUNITY |
+      SOMETHING_NEW | SINGLE_PERSON_ACTIVITY | PAINT | COMPUTER_ANIMATION )
+      => building new single better
+
+10... TREAT ( *** ) => good nice
+
+11... WILL LIKE -- LOVE -- DO LIKE -- LOVE -- REMEMBER -- MEET ( EVERYONE |
+      EVERYBODY | LIFE ) => such
+
+12... SEE -- KEEP ( PERSON | PERSON ) => own much strong
+
+13... GIVE -- REJECT ( THINK | PERSON | PERSON ) => hardest give
+
+14... SETTLE -- IS ( DUST ) => large loved valuable
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 9397.94207 ms                                                          |
+|                                                                              |
+| New concepts:  70                     Total concepts:  1180                  |
+| New relations: 1186                   Total relations: 9950                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00023 ****************************
+********************************************************************************

@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00063 ***************************
+********************************************************************************
+
+                           - RESPONDING AFTER KISS -                            
+
+00... LOOK ( RUN_FINGER | HAIR | EYE ) => more
+
+01... ACTUALLY MAKE -- LINGER ( SECOND_KISS | CONTACT ) => anxious hesitate
+      second other hard
+
+02... ??? ( SMILE ) => !null
+
+03... DO SAY ( SOMETHING ) => awesome stupid
+
+04... DO SAY -- WOULD HURT -- SMELL ( SOMETHING | BAD_KISSER | BREATH ) =>
+      bad second best
+
+05... ??? ( HOLD_OTHER_HAND ) => !null
+
+06... NOT HURT -- CAUSE ( LEAST_ACT | KISS | FEELING | POSSIBLE_BREAK ) =>
+      possible satisfied least happy
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 1226.16315 ms                                                          |
+|                                                                              |
+| New concepts:  11                     Total concepts:  1876                  |
+| New relations: 208                    Total relations: 19815                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00063 ****************************
+********************************************************************************

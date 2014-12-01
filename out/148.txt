@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00036 ***************************
+********************************************************************************
+
+                 - BEING EFFECTIVE STUDENT DURING HIGH SCHOOL -                 
+
+00... ??? ( SCHOOL | TIME ) => !null
+
+01... WILL PREPARE -- GET ORGANIZE ( CLASS ) => !null
+
+02... ??? ( GET | CLASS | TIME ) => !null
+
+03... INSTRUCT -- DO -- DO ( TEACHER ) => worth
+
+04... DO -- SOCIALIZE ( SCHOOL | HOMEWORK | FRIEND ) => !null
+
+05... DO LOSE ( COOL ) => !null
+
+06... READ ( BOOK | ADVANCE_OR_RESEARCH | UPCOME_TOPIC ) => upcoming
+
+07... SET UP ( REGULAR_SCHEDULE ) => wont regular unexpected
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 4800.07911 ms                                                          |
+|                                                                              |
+| New concepts:  12                     Total concepts:  1487                  |
+| New relations: 100                    Total relations: 14088                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00036 ****************************
+********************************************************************************

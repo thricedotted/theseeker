@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00030 ***************************
+********************************************************************************
+
+                    - GETTING MOST OUT OF SCHOOL BACKPACK -                     
+
+00... BUY -- MAKE ( GOOD_QUALITY_BACKPACK ) => good sure cheap likely more
+
+01... BUY -- MARK ( MAKE_SURE | HOLE | THIN_FABRIC | BACKPACK ) => make sure
+      thin comfortable
+
+02... AVOID JUST SHOVE -- CAN ( PENCIL_AND_PEN | BACKPACK | POKE_HOLE ) =>
+      et zippered
+
+03... DO PUT ( TOO_MANY | LARGE_BOOK | BACKPACK ) => large many
+
+04... ONLY PUT -- ABSOLUTELY NEED ( STUFF | BACKPACK ) => !null
+
+05... NOT THROW -- LEAK ( DO | OPEN_CANDY | GUM | WATER_BOTTLE | BACKPACK )
+      => make own opened separate
+
+06... TRY NOT PUT -- PUT ( BACKPACK | DIRTY_THING | DIRTY_THING | BACKPACK )
+      => different dirty plastic
+
+07... THROW -- EMPTY ( BACKPACK | WASH_MACHINE ) => washing
+
+08... TRY NOT GET SCUFF -- JUST MAKE -- LOOK ( MARK | BACKPACK | BACKPACK |
+      TRASHY ) => !null
+
+09... ??? ( BACKPACK ) => careful cautious
+
+10... ALSO TRY HAVE -- USED -- CAN ( TWO_OR_THREE_BACKPACK | ONE | OTHER |
+      HOME ) => !null
+
+11... HAVE -- TRY HAVE -- FIX -- IS ( FRIEND | FAMILY_MEMBER | NEEDLE |
+      THREAD | MINOR_RIP | SPEND | NEW_BACKPACK ) => new handy minor more
+
+12... GET RID ( EMPTY_BACKPACK | WEEKEND | UNWANT_ITEM ) => sure unwanted
+      empty
+
+13... ALWAYS GENTLY HANDLE -- DO PULL -- WILL GET STICK -- POSSIBLY BREAK (
+      ZIPPER ) => fast
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 3262.16006 ms                                                          |
+|                                                                              |
+| New concepts:  46                     Total concepts:  1372                  |
+| New relations: 647                    Total relations: 12368                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00030 ****************************
+********************************************************************************

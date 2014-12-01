@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00072 ***************************
+********************************************************************************
+
+            - BEING COMPLETELY DIFFERENT IN PRIVATE SCHOOL (GIRLS) -            
+
+00... CUT -- TALK ( HAIR | DYE | DIFFERENT_COLOR ) => different short
+      feathery
+
+01... ??? ( GET_WEIRD_JEWELRY | CHAIN_LINK_BRACELET | BRIGHT_CHUNKY_NECKLACE
+      ) => different own get bright chunky such weird unique
+
+02... WEAR PATTERN ( SOCK ) => black
+
+03... WEAR -- WOULD ALSO ( FINGERLESS_GLOVE ) => own good fingerless
+
+04... ??? ( PAINT_NAIL | NEON_COLOR ) => black
+
+05... ??? ( GAIN_WEIRD_SENSE | HUMOR ) => weird gain
+
+06... DEVELOP -- HAVE ( HOBBY_AND_INTEREST | NOBODY ) => else
+
+07... CREATE -- USE -- IS ( SOMETHING | SIGNATURE ) => green striped black
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 14648.57197 ms                                                         |
+|                                                                              |
+| New concepts:  22                     Total concepts:  2072                  |
+| New relations: 294                    Total relations: 22625                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00072 ****************************
+********************************************************************************

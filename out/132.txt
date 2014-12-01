@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00032 ***************************
+********************************************************************************
+
+                    - TELLING PARENTS THAT YOU'VE GONE EMO -                    
+
+00... REALLY WANT ( MAKE_SURE | STAGE | EMO ) => make sure
+
+01... REALLY SUPPOSE ACT -- BECOME ( FIGURE | EMO_PEOPLE | EMO ) => new
+
+02... TELL ( PARENT | ONLY_GIVE_HINT ) => ready give
+
+03... WEAR ( ONE_EMO_THING | TIME ) => !null
+
+04... TELL -- MORE ACCEPT ( EMO | MOTHER ) => ready suicidal
+
+05... STARE -- DO MAKE -- FEEL TRAP ( EYE ) => serious make
+
+06... WILL THINK -- HAVE -- STAY ( MOM | SUICIDAL_THOUGHT ) => suicidal
+      happy
+
+07... DO TELL -- GO ( MOM | DAD ) => bad uncomfortable
+
+08... STILL LOVE -- IS -- REMEMBER ( SAY | EYE | DAD | EMO | EMO | CHOICE |
+      CLOTHES_AND_MUSIC | SUICIDE | DEPRESSION ) => much
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 9326.36380 ms                                                          |
+|                                                                              |
+| New concepts:  14                     Total concepts:  1400                  |
+| New relations: 345                    Total relations: 12785                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00032 ****************************
+********************************************************************************

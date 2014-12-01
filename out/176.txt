@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00043 ***************************
+********************************************************************************
+
+                     - AVOIDING BEING ACCUSED OF FLIRTING -                     
+
+00... IS -- NORMALLY HANG -- IS ( SECTION | BOY | GROUP | FRIEND | FRIEND )
+      => !null
+
+01... NOT SIT ( DO ) => new other right next
+
+02... STAY ( FRIEND ) => similar
+
+03... KEEP ( THING ) => other equal
+
+04... AVOID -- DO GO ( WAY ) => sudden
+
+05... AVOID ( *** ) => !null
+
+06... DO NOT HANG -- SIT -- DO ( BOY | GROUP | FRIEND | CLASS_OR_SOMETHING )
+      => similar
+
+07... NOT INSIST -- HANG ( DO | BOY | GROUP ) => obvious
+
+08... ??? ( DO_NOT_CONSTANTLY_SINGLE ) => single latest
+
+09... INVITE ( DO_NOT_PUSH ) => childish
+
+10... NOT TRY GET ( DO ) => !null
+
+11... ACCUSE ( FRIEND ) => childish
+
+12... IGNORE ( *** ) => high tired
+
+13... TELL -- STOP ( FRONT | OTHER_PEOPLE ) => immature other
+
+14... CALL -- DEFEND -- FEEL ( FRIEND | MIDDLE | BIG_GROUP ) => big other
+      intentional awkward free
+
+15... ??? ( SINGLE ) => !null
+
+16... STRIKE UP ( CONVERSATION ) => !null
+
+17... BRING UP ( ISSUE ) => !null
+
+18... FEEL -- MIGHT -- REVEAL ( GOOD_TIME | FEELING ) => good
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2379.40502 ms                                                          |
+|                                                                              |
+| New concepts:  35                     Total concepts:  1609                  |
+| New relations: 484                    Total relations: 15803                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00043 ****************************
+********************************************************************************

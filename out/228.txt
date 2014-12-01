@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00056 ***************************
+********************************************************************************
+
+                   - CELEBRATING DAD WITH RENTAL PROJECTOR -                    
+
+00... ??? ( RENT_PROJECTOR ) => affordable most outside full
+
+01... BUY -- MAKE ( DAD_EXCELLENT_GREET_CARD | CERTIFICATE | COMPUTER ) =>
+      unique intangible excellent
+
+02... DECIDE -- WORK ( TALK | REST | FAMILY | WEEKEND | RENTAL ) =>
+      available least
+
+03... CHOOSE -- LET ( THEME | DAD_DECIDE ) => !null
+
+04... WANT WATCH -- ARRANGE ( RENT_MOVY | DAD | BIG_GAME | HEAVYWEIGHT_FIGHT
+      ) => big laptop rental easy
+
+05... PROVIDE ( SNACK ) => fried
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 1629.14300 ms                                                          |
+|                                                                              |
+| New concepts:  16                     Total concepts:  1787                  |
+| New relations: 248                    Total relations: 18592                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00056 ****************************
+********************************************************************************

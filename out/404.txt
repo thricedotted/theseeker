@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00100 ***************************
+********************************************************************************
+
+                 - ACTING AND DRESS LIKE VICTORIAN GENTLEMAN -                  
+
+00... DRESS -- WILL -- NEED ( ROLE | WAISTCOAT | VEST | AMERICAN_ENGLISH )
+      => bold first
+
+01... HAVE ( TOP_HAT ) => top essential sophisticated
+
+02... HAVE ( FROCK_COAT | TAILCOAT ) => popular second victorian
+
+03... ??? ( TROUSER ) => victorian
+
+04... BEHAVE -- LEARN ( VICTORIAN_GENTLEMEN ) => graceful victorian old
+      polite
+
+05... ??? ( GOOD_PERSON ) => big victorian good
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2141.16001 ms                                                          |
+|                                                                              |
+| New concepts:  12                     Total concepts:  2510                  |
+| New relations: 100                    Total relations: 29699                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00100 ****************************
+********************************************************************************

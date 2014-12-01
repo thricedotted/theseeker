@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00096 ***************************
+********************************************************************************
+
+                      - HANDLING CHILD'S TEMPER TANTRUM -                       
+
+00... HANDLE -- REMAIN ( TANTRUM ) => enough worst calm
+
+01... HAVE -- NEED ( MAKE_SURE | CHILD | OR ) => needed make digestive low
+      physical
+
+02... ??? ( *** ) => wrong best
+
+03... GIVE -- JUST SAY ( CLEAR_EXPLANATION ) => many clear s
+
+04... COPE ( CHILD_CHOICE | STRATEGY ) => !null
+
+05... HOLD ( GRIND ) => firm calm empathetic
+
+06... PREVENT ( TAKE_STEP | INJURY ) => take
+
+07... LOSE ( DON_T | OWN_TEMPER ) => s own important
+
+08... HELP -- LOVE ( CHILD_FEEL | MATTER ) => extra
+
+09... ??? ( USE_TIME | MELTDOWN ) => use
+
+10... TELL ( CHILD | TIME | QUIET_TIME ) => complete quiet s rational
+      responsive best
+
+11... PLACE ( OR | SAFE_SPOT ) => s safe little comfortable
+
+12... WILL TALK -- CALM -- EXPLAIN ( CHILD | OR | OR ) => unacceptable
+
+13... HAVE ( TALK | TIME ) => fit
+
+14... ??? ( *** ) => consistent safe
+
+15... ??? ( TRY_JOURNALE_TIME | TRICK ) => journaling different comfortable
+
+16... GET -- SEE ( RE | CHILD ) => different different disciplinary
+
+17... RELATE -- SEE ( TANTRUM | ENVIRONMENTAL_FACTOR ) => environmental more
+      normal certain
+
+18... PERSIST -- GET -- SEE ( TANTRUM | CHILD ) => most other effective
+      older
+
+                                --- COMPLETE ---                                
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 3927.05107 ms                                                          |
+|                                                                              |
+| New concepts:  37                     Total concepts:  2473                  |
+| New relations: 816                    Total relations: 29158                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00096 ****************************
+********************************************************************************

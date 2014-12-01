@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00037 ***************************
+********************************************************************************
+
+                      - TELLING PARENTS YOU ARE BISEXUAL -                      
+
+00... TELL -- WILL -- HAVE -- TELL ( CLOSEST_FRIEND | AFRAID | JUDGE |
+      CLOSE_PARENT | THAT_WONT_JUDGE ) => wont close sure afraid closest
+
+01... TELL -- COULD ( PARENT ) => confident sure quiet
+
+02... TELL -- GIVE -- COOL OFF ( TIME ) => such likely
+
+03... TELL -- KEEP TELL -- JUST MAKE -- BRING -- RUN -- DO WANT ( ONE_PERSON
+      | CLOSE_FRIEND | SURE | TOPIC | FREAK ) => close sure more
+
+04... KNOW -- HAVE MAKE ( EVERYONE | SURE ) => sure gay bisexual proud
+      confident such lesbian happy
+
+05... SAY -- HOPE -- DO COME -- SAY ( SOMETHING | KISS | OPTION | OR_OPTION
+      ) => !null
+
+06... SURROUND ( LOT | NEGATIVITY | BISEXUALITY | STAY_STRONG ) => vital
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 8698.10700 ms                                                          |
+|                                                                              |
+| New concepts:  18                     Total concepts:  1505                  |
+| New relations: 321                    Total relations: 14409                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00037 ****************************
+********************************************************************************

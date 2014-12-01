@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00019 ***************************
+********************************************************************************
+
+                             - MAKING NATURE CLUB -                             
+
+00... LIKE ( GET | SMALL_GROUP | PEOPLE | NATURE ) => small
+
+01... GET ( PLACE | MEMBER | HOUSE_OR_TREE_HOUSE | MEET ) => !null
+
+02... WOULD WORK ( MAKE_MEMBERSHIP_CARD | BADGE | MEMBER_NAME_AND_PICTURE |
+      OR_SOMETHING ) => make
+
+03... FILL -- DO ( PLACE | BOOK | NATURE_AND_POSTER | STUFF | NATURE ) =>
+      !null
+
+04... GET -- JUST ENJOY ( REGULAR_MEET_TIME | TALK | NATURE ) => regular
+
+05... WANT -- HAVE -- TAKE -- MAKE ( PLAN_MEET | IMPORTANT_EVENT |
+      EARTH_DAY_AND_PLANT | MANY_TREE | WATER | CARE ) => many important
+      plan sure
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 1305.21107 ms                                                          |
+|                                                                              |
+| New concepts:  17                     Total concepts:  835                   |
+| New relations: 253                    Total relations: 6353                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00019 ****************************
+********************************************************************************

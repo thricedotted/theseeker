@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00094 ***************************
+********************************************************************************
+
+               - GETTING BOYFRIEND TO HOLD HANDS WITH YOU AGAIN -               
+
+00... GET -- HOLD -- TRY JUST ASK -- HOLD -- DO ( FIRST_TRY | SPECIAL_BOY |
+      HAND | HAND ) => special
+
+01... GET -- ASSURE -- LOVE HOLD -- WOULD NEVER REJECT ( GOOD_ANSWER | HAND
+      ) => good
+
+02... IS DO -- PLAN -- GO ( CONVERSATION | TRY | DATE | MOVY | BOWL_ALLEY )
+      => !null
+
+03... GO ( DATE ) => !null
+
+04... BEGIN -- TRY BREAK ( DATE | TOUCH_BARRIER ) => comfortable
+
+05... PUT -- SIT DOWN ( HAND ) => other next
+
+06... MIGHT GET -- HOLD ( IDEA | HAND ) => !null
+
+07... JUST DO THINK ( *** ) => sure clingy more
+
+08... WANT GET -- GET -- CA KEEP -- TELL -- WANT HOLD ( PERSON | SECRET |
+      HAND ) => embarrassed little dramatic
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2810.31513 ms                                                          |
+|                                                                              |
+| New concepts:  6                      Total concepts:  2427                  |
+| New relations: 264                    Total relations: 28212                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00094 ****************************
+********************************************************************************

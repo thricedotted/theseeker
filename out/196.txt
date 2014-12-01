@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00048 ***************************
+********************************************************************************
+
+                                - BEING SINGLE -                                
+
+00... SET -- WANT -- NEED ( LENGTH | TIME ) => loved single
+
+01... FOCUS -- MAKE ( PERIOD | LITTLE_THING ) => little happy
+
+02... FIND -- BUILD -- LEARN ( OTHER_SINGLE | NETWORK | RELATIONSHIP ) =>
+      other
+
+03... CAN -- PREPARE ( MANY_BOOK | RELATIONSHIP_AND_PERSONAL_DEVELOPMENT |
+      SINGLE_TIME | TIME | WISH | DATE ) => personal many single
+
+04... FIND -- DO -- MIND -- CONTRIBUTE ( TIME | CHARITY_WORK | COMMON_GOAL |
+      GROUP | PEOPLE ) => common like
+
+05... TELL -- FOCUS -- COMPLETE -- MAKE -- IS -- ENJOY ( PEOPLE | TASK |
+      FRIEND | SINGLE_TIME | MOST_IMPORTANT_THING ) => single important
+
+06... NOT LOOK ( FOCUS | ACCOMPLISHMENT | ROMANCE ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 12146.47913 ms                                                         |
+|                                                                              |
+| New concepts:  11                     Total concepts:  1667                  |
+| New relations: 249                    Total relations: 16741                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00048 ****************************
+********************************************************************************

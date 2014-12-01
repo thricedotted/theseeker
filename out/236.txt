@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00058 ***************************
+********************************************************************************
+
+                        - AVOIDING RUNNING INTO PEOPLE -                        
+
+00... APPROACH -- SHOULD PASS ( SOMEONE_HEAD | PEOPLE | RIGHT ) => other
+
+01... APPROACH -- COME -- HAVE ( PERSON | DEGREE_ANGLE | PERSON | RIGHT ) =>
+      near right
+
+02... OVERTAKE -- LEFT -- PASS ( SLOWER_PEDESTRIAN | OR ) => slower
+
+03... KEEP ( EYE_AND_EAR ) => open alert
+
+04... KNOW -- BUMP -- WILL CAUSE -- AVOID GO ( ILL_AND | PEOPLE |
+      PAIN_OR_IRRITATION ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 3484.03096 ms                                                          |
+|                                                                              |
+| New concepts:  15                     Total concepts:  1825                  |
+| New relations: 144                    Total relations: 19057                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00058 ****************************
+********************************************************************************

@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00005 ***************************
+********************************************************************************
+
+                            - DRESSING FOR FUNERAL -                            
+
+00... WEAR ( BLACK_SUIT | WHITE_SHIRT ) => white black neutral long
+
+01... SHOULD CHOOSE ( WOMEN | CLASSIC_BLACK_ATTIRE ) => dark funeral black
+      classic
+
+02... SHOULD ( CHILDREN ) => dressed little similar black unnecessary
+
+03... WEAR ( PLAN | SOMETHING ) => funeral important religious tasteful
+      conservative
+
+04... DO FORGET ( SHOE ) => athletic
+
+05... WOULD ( RULE | THUMB | DRESS | CHURCH ) => !null
+
+06... CONSIDER ( TEMPERATURE | DRESS ) => outside least
+
+07... MAY NECESSITATE -- BRING -- ADJUST ( FUNERAL | TOWN | MULTIPLE_OUTFIT
+      | DIFFERENT_DAY ) => able different multiple
+
+08... DO NOT BELIEVE -- SHOULD ( FUNERAL_ATTIRE ) => funeral black
+      appropriate
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 1973.87195 ms                                                          |
+|                                                                              |
+| New concepts:  68                     Total concepts:  440                   |
+| New relations: 428                    Total relations: 2854                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00005 ****************************
+********************************************************************************

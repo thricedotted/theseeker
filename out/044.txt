@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00010 ***************************
+********************************************************************************
+
+                    - DEALING WITH DISRESPECTFUL CHILDREN -                     
+
+00... FIND ( SOURCE | PROBLEM ) => hardest
+
+01... COMMUNICATE ( *** ) => !null
+
+02... DO IDENTIFY -- JUST WORK ( SOURCE | PROBLEM | WAY | SITUATION ) =>
+      !null
+
+03... ??? ( DEAL | FRIEND_FACTOR ) => common
+
+04... ??? ( DEAL | INEVITABLE_ARGUMENT ) => inevitable
+
+05... REACT -- DO HIT ( *** ) => punching
+
+06... DO ( SPOT_MANIPULATION | FALL ) => !null
+
+07... ALSO DISRESPECT -- SEE ( OTHER_FIGURE | TEACHER_OR_COACH ) => such
+      other
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 5964.20908 ms                                                          |
+|                                                                              |
+| New concepts:  45                     Total concepts:  632                   |
+| New relations: 461                    Total relations: 4307                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00010 ****************************
+********************************************************************************

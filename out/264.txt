@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00065 ***************************
+********************************************************************************
+
+                            - FINDING SUGAR DADDY -                             
+
+00... LOOK ( *** ) => !null
+
+01... CHECK OUT -- FIND ( WEBSITE | SUGAR_DADDY ) => shy
+
+02... DATE -- CHECK OUT ( SITE ) => traditional shy regular obvious online
+
+03... ASK ( FRIEND ) => afraid
+
+04... CAN FIND -- GO ( PLACE | RICH_MEN ) => shy rich online
+
+05... ??? ( SEARCH ) => persistent
+
+06... ??? ( NEED ) => clear
+
+07... ??? ( LOOK ) => hot attentive old
+
+08... ??? ( *** ) => ready confident
+
+09... ??? ( *** ) => independent
+
+10... ??? ( *** ) => sexy
+
+11... STAY ( *** ) => mysterious
+
+12... ??? ( FUN ) => positive good
+
+13... KEEP ( THING ) => fresh exciting
+
+14... AVOID ( DOMESTICITY ) => ready quickest
+
+15... DO GET ATTACH ( *** ) => !null
+
+16... MOVE ( *** ) => long
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2381.00696 ms                                                          |
+|                                                                              |
+| New concepts:  43                     Total concepts:  1947                  |
+| New relations: 469                    Total relations: 20712                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00065 ****************************
+********************************************************************************

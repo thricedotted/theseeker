@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00087 ***************************
+********************************************************************************
+
+                             - TALKING TO PARENTS -                             
+
+00... FIND ( SOMETHING | THAT_INTEREST | PARENT ) => classic
+
+01... HAVE -- TRY ASK ( REGULAR_DINNER_TIME | NIGHT | PARENT | DAY ) =>
+      simple regular
+
+02... TALK -- KNOW -- LISTEN -- LOOK ( *** ) => interested
+
+03... CAN START -- WATCH ( GOOD_CONVERSATION_STARTER | TELEVISION_SHOW ) =>
+      teen good
+
+04... CAN ALWAYS TRY TELL -- ENJOY -- TALK ( PARENT | MUCH ) => much
+
+05... ASK -- DO -- DISTURB ( ADVICE | TALK | THING | MENTION_THING | OTHER )
+      => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 1403.44501 ms                                                          |
+|                                                                              |
+| New concepts:  10                     Total concepts:  2268                  |
+| New relations: 256                    Total relations: 25710                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00087 ****************************
+********************************************************************************

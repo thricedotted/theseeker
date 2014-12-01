@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00064 ***************************
+********************************************************************************
+
+                           - PERSONALIZING WEDDING -                            
+
+00... CONSIDER ( INVITATION_OPTION ) => conservative
+
+01... CHOOSE ( INTEREST_MOOD_MUSIC ) => traditional interesting boring
+
+02... CAN PROVIDE -- SEE ( USUAL_CATER_SUSPECT | CALL | FAVORITE_RESTAURANT
+      | WED_GOODY ) => favorite usual
+
+03... ??? ( MAKE_CELEBRATION ) => !null
+
+04... HAVE -- OFFICIATE ( SPECIAL_FRIEND | FAMILY_MEMBER | WED ) => proper
+      special
+
+05... CONSIDER ( THEME_WED ) => perfect special
+
+06... ADD ( THRILL_GRANDPARENT | TOUCH | PERSONAL_HERITAGE |
+      TRADITIONAL_FOOD ) => personal traditional japanese
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 4415.59911 ms                                                          |
+|                                                                              |
+| New concepts:  28                     Total concepts:  1904                  |
+| New relations: 428                    Total relations: 20243                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00064 ****************************
+********************************************************************************

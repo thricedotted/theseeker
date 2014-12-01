@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00066 ***************************
+********************************************************************************
+
+               - GETTING GUY TO LIKE YOU THROUGH TEXT MESSAGES -                
+
+00... GET ( BOY ) => easy
+
+01... ACCEPT -- THEN SEND -- ENTERTAIN ( CELL_PHONE | VIDEO_MESSAGE | VIDEO
+      ) => funny video
+
+02... GIVE -- MAKE -- WANT ( CELL_PHONE_LOAD | SURE_FIRE_WAY ) => sure
+
+03... GIVE ( TEXT | INTEREST | CHEAT_CODE | STRATEGY |
+      FAVORITE_COMPUTER_GAME ) => cheat favorite
+
+04... IS -- CAN -- GIVE -- LEARN ( SPORTY_TYPE | SPORT_IDOL |
+      LATEST_INSIDER_SPORT_NEW ) => much sporty latest
+
+05... USED -- THEN SEND -- MIGHT MAKE ( OLD_CELL_PHONE |
+      UNIQUE_PICTURE_MESSAGE | RINGTONE | APPRECIATE ) => unique old
+
+06... WILL LIKE -- GET ATTACH ( EMOTIONAL_SUPPORT ) => emotional
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 4082.32689 ms                                                          |
+|                                                                              |
+| New concepts:  17                     Total concepts:  1964                  |
+| New relations: 294                    Total relations: 21006                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00066 ****************************
+********************************************************************************

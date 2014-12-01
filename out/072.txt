@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00017 ***************************
+********************************************************************************
+
+                         - HAVING WITTY CONVERSATION -                          
+
+00... LISTEN ( *** ) => own
+
+01... ??? ( USE_CREATIVE_AND_VIVID_EXAGGERATION ) => use vivid creative
+
+02... ??? ( USE_PUN ) => different other
+
+03... ??? ( USE_METAPHOR ) => blue use
+
+04... RESPOND ( RELEVANT_QUOTATION | MOVIE | BOOK | SIGNIFICANT_FIGURE ) =>
+      wittier obscure relevant greater significant
+
+05... ??? ( REPLY ) => draw
+
+06... HAPPEN -- THINK ( EVERYTHING ) => !null
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 15632.28798 ms                                                         |
+|                                                                              |
+| New concepts:  39                     Total concepts:  798                   |
+| New relations: 233                    Total relations: 5803                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00017 ****************************
+********************************************************************************

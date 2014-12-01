@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00069 ***************************
+********************************************************************************
+
+           - SHOWING TODDLER ACTIVITIES TO TEACH COLORS AND SHAPES -            
+
+00... READ ( TODDLER_BOOK | COLOR_AND_SHAPE ) => handy
+
+01... CONNECT LEARN ( EVERYDAY_ACTIVITY ) => everyday
+
+02... RHYME ( SING_NURSERY | SHAPE_AND_COLOR ) => many different basic
+
+03... ??? ( PLAY_GAME | COLOR_AND_SHAPE ) => familiar play
+
+04... ??? ( MAKE_EDIBLE_FINGER_PAINT ) => few make several edible
+
+05... ??? ( MAKE_SHAPE | DIFFERENT_COLORE ) => different edible colorful
+      make homemade colored
+
+06... ??? ( PLAY | CHALK | SIDEWALK ) => !null
+
+07... TEACH ( USE_DIFFERENT_COLORE_JELLY_BEAN | COLOR ) => use different
+      colored
+
+08... TEST ( TODDLER | SILHOUETTE_FLASH_CARD ) => !null
+
+09... ENCOURAGE -- SORT ( TODDLER | SHAPE ) => !null
+
+10... FEED ( IMAGINARY_PET | DIFFERENT_SHAPE_FOOD ) => imaginary different
+      stuffed shaped
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 8801.16010 ms                                                          |
+|                                                                              |
+| New concepts:  33                     Total concepts:  2036                  |
+| New relations: 461                    Total relations: 22197                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00069 ****************************
+********************************************************************************

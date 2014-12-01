@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00090 ***************************
+********************************************************************************
+
+                        - BEING GOOD TEENAGE DAUGHTER -                         
+
+00... THINK ( FUTURE ) => high
+
+01... ??? ( DISCOVER_INTEREST ) => musical find
+
+02... FIND ( ROLE_MODEL ) => good
+
+03... PARTICIPATE ( DO_ACTIVITY | COMMUNITY_SERVICE ) => do
+
+04... ??? ( CHALLENGE ) => personal
+
+05... TALK ( WALK ) => have smart
+
+06... ??? ( *** ) => positive
+
+07... SAY -- DO PUT ( OTHER ) => supportive
+
+08... HAVE ( GOOD_HYGIENE ) => good presentable
+
+09... DO WORRY ( PARENTAL_FRUSTRATION ) => overprotective natural parental
+
+10... DO KEEP -- GO ( ARGUMENT ) => more
+
+11... KEEP -- INFORM ( *** ) => latest
+
+12... ??? ( MAKE_NEW_FRIEND ) => new
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 18005.51391 ms                                                         |
+|                                                                              |
+| New concepts:  14                     Total concepts:  2307                  |
+| New relations: 138                    Total relations: 26341                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00090 ****************************
+********************************************************************************

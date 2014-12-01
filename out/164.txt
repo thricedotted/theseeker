@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00040 ***************************
+********************************************************************************
+
+                                - MAKING RULES -                                
+
+00... GET -- WRITE ( NOTEBOOK | PAPER | BLACKBOARD | OTHER_ITEM | LIST |
+      RULE ) => other inevitable
+
+01... GET -- WRITE ( PENCIL | OTHER_WRITE_TOOL | LIST ) => other
+
+02... ASSEMBLE -- WILL AFFECT ( GROUP | PART | RULE ) => make sure present
+
+03... PRESENT -- EXPLAIN ( OPEN_DIALOGUE | PEOPLE | CHILDREN |
+      CLUB_OR_ADULT_WORK_TEAM | EVERYONE_REASON_RULE ) => desirable
+
+04... HAVE -- THINK WILL ( PERSON | GROUP_LIST_RULE | GROUP | SITUATION ) =>
+      important valuable
+
+05... SHOULD -- DO ( BASIC_SOCIAL_RULE_EVERYONE | SHARE | TASK ) => familiar
+      basic polite willing social truthful
+
+06... LOOK ( POSSIBLE_RULE | SITUATION ) => specific possible
+
+07... ALLOW -- DISCUSS -- GO ( LIST | POTENTIAL_RULE | PEOPLE | WORD | MERIT
+      ) => potential
+
+08... MAKE -- RECEIVE -- ALSO POST -- REVIEW -- NEED ( COMPLETE_LIST |
+      ACCEPT_RULE | MEMBER | GROUP | COPY | COPY | EVERYONE ) => accepted
+      complete sure
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 4905.43413 ms                                                          |
+|                                                                              |
+| New concepts:  24                     Total concepts:  1555                  |
+| New relations: 464                    Total relations: 15203                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00040 ****************************
+********************************************************************************

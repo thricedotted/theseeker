@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00088 ***************************
+********************************************************************************
+
+                     - AVOIDING BEING PICKED OUT IN CROWD -                     
+
+00... DO TRY STAND OUT ( *** ) => !null
+
+01... MAKE -- CONSIST ( FIGURE | NOTHING | CLOTHE ) => such draw
+
+02... CONCEAL ( THING | BODY | JACKET ) => !null
+
+03... ??? ( WEAR_NEUTRAL_COLOR ) => blue light grey dark neutral much black
+      wear white
+
+04... DYE -- IS -- NATURALLY DRAW ( HAIR | HUMAN_EYE ) => bad odd same human
+
+05... CARRY -- DO LOOK ( ANYTHING ) => small important possible
+
+06... SHAVE ( FACIAL_HAIR ) => likely full bearded facial
+
+07... WEAR -- WEAR ( GLASS | ATTEMPT | CONTACT ) => other
+
+08... IS GO ( MOVE | CROWD | HEAD | GENERAL_DIRECTION | CROWD ) => opposite
+      general
+
+09... DRIVE -- KEEP ( CAR | BODY | PARALLEL | SEAT ) => likely possible
+
+10... GO CONCEAL CARRY -- DO ( LEGAL_PERMIT ) => legal
+
+11... WOULD ( MOVE ) => !null
+
+12... ??? ( MOVE | STREET ) => possible
+
+13... DO -- LEARN ACT ( LOCAL ) => third
+
+14... HAVE -- GO WALK ( TIME | SURVEY_AREA ) => dark darkest harder
+
+15... ??? ( TRAVEL | MOST_WELL_POPULATE_PLACE ) => available populated
+      larger possible likely individual
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2164.13617 ms                                                          |
+|                                                                              |
+| New concepts:  21                     Total concepts:  2289                  |
+| New relations: 377                    Total relations: 26087                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00088 ****************************
+********************************************************************************

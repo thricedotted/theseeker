@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00092 ***************************
+********************************************************************************
+
+                    - DRESSING LIKE VINTAGE CIGARETTE GIRL -                    
+
+00... WEAR -- EXTEND ( DRESS | SHORT_SKIRT ) => short least
+
+01... FIND -- USED -- CREATE -- BUY -- LOOK -- WEAR ( SKIRT | TULLE | POOFY
+      | SEPARATE_TULLE_SKIRT | SKIRT | DRESS ) => full separate
+
+02... LOOK ( SLEEVELESS_DRESS ) => !null
+
+03... LOOK ( DRESS | FLIRTY | FEMININE_DETAIL | RIBBON_AND_BOW ) => feminine
+
+04... SHY ( DON_T | COLOR ) => pink bright appropriate red
+
+05... WEAR ( PAIR | PUMP | STRAP ) => !null
+
+06... TIE ( LOOK | NYLON_STOCKING ) => dark consistent s
+
+07... DRY -- LEAVE -- PARTIALLY DAMP ( WASH | HAIR ) => !null
+
+08... ??? ( PART_HAIR | ONE_SIDE ) => !null
+
+09... CURL ( USE_DIAMETER_CURL_IRON | SMALL_SECTION | HAIR ) => small front
+
+10... CURL ( OPEN_CURL_IRON | BARREL ) => !null
+
+11... CURL ( PLACE | BOBBY_PIN ) => !null
+
+12... IS CURL -- PIN ( REPEAT_CURL_PROCESS | ENTIRE_HAIR | PLACE ) => front
+      entire top bottom
+
+13... REMOVE -- UNWIND -- HAVE GIVE -- COOL ( BOBBY_PIN | CURL |
+      HAIR_FEW_MINUTE ) => few
+
+14... LOOSEN ( FINGER | CURL | WAVE ) => !null
+
+15... REPOSITION -- USED ( WAVE | BOBBY_PIN ) => necessary deep
+
+16... KEEP ( USE_HAIR_SPRAY | EVERYTHING | PLACE ) => use
+
+17... DRY -- LEAVE -- SLIGHTLY DAMP ( WASH | HAIR ) => !null
+
+18... GATHER ( SECTION | HAIR | TOP_LAYER ) => front diagonal
+
+
+                         --- WARNING: LOG TRUNCATED ---                         
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 4355.50690 ms                                                          |
+|                                                                              |
+| New concepts:  100                    Total concepts:  2416                  |
+| New relations: 1378                   Total relations: 27839                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00092 ****************************
+********************************************************************************

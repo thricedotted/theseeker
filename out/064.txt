@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00015 ***************************
+********************************************************************************
+
+                       - CHOOSING DRESS IF YOU'RE NERD -                        
+
+00... WEAR -- THINK ( OCCASION | DRESS ) => dressy casual formal
+
+01... ??? ( HEAD | MALL ) => sure
+
+02... SEARCH ( *** ) => first
+
+03... ??? ( MAKE_SURE | STYLE ) => make cool
+
+04... PULL OUT -- LIKE -- TRY ( SEVERAL_DRESS | DRESS_ROOM ) => make several
+      right comfortable
+
+05... GO ( GET_NICE_SHOE | NEW_DRESS ) => small new wrong enough nice
+
+06... WEAR -- WANT -- LOOK ( TIME | DRESS | STYLE_HAIR_WAY ) => make
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 1729.45499 ms                                                          |
+|                                                                              |
+| New concepts:  11                     Total concepts:  730                   |
+| New relations: 155                    Total relations: 5309                  |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00015 ****************************
+********************************************************************************

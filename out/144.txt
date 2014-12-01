@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00035 ***************************
+********************************************************************************
+
+                  - BEING LIKE LUPITA FERNANDEZ FROM REBELDE -                  
+
+00... DARK -- USE -- LOOK ( DYE_HAIR | FLAT_IRON ) => brown flat
+
+01... HAVE ( PRETTY_SKIN ) => great sure clear pretty routine nice
+
+02... DO ( EYEBROW ) => nice
+
+03... ??? ( WEAR_MINIMAL_MAKEUP ) => natural wear minimal
+
+04... ??? ( DRESS | SCHOOL ) => more
+
+05... COPY ( GET_CLOTHES | RELAX_STYLE ) => revealing cute relaxed fit
+
+06... ??? ( HAVE_CUTE_ACCESSORY ) => small cute colorful have
+
+07... ALWAYS HAVE -- SAY ( SOMETHING ) => friendly nice
+
+08... ??? ( HELP_AND_OFFER_HELP ) => most
+
+09... ??? ( GOOD_LISTENER ) => good
+
+10... LOVE ( FAMILY ) => little lupita
+
+11... ??? ( DISCOVER_TALENT ) => great own
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 4480.18193 ms                                                          |
+|                                                                              |
+| New concepts:  27                     Total concepts:  1475                  |
+| New relations: 393                    Total relations: 13988                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00035 ****************************
+********************************************************************************

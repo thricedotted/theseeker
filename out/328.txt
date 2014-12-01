@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00081 ***************************
+********************************************************************************
+
+                          - ENJOYING SUMMER ROMANCE -                           
+
+00... ??? ( FIGURE | GUY | PRIORITY ) => comfortable
+
+01... ??? ( MIX_IDEA | PERFECT_SUMMER | BOYFRIEND ) => perfect worth
+      difficult
+
+02... COME -- FIX ( PRIORITY | MEET | COUPLE | WEEK | SUMMER_BREAK ) => such
+      major special
+
+03... ORGANIZE ( GROUP_ACTIVITY ) => !null
+
+04... ??? ( LITTLE_THING_COUNT ) => big little romantic
+
+05... TRY ( LITTLE_HINT | SEXINESS_OR_ROMANTICISM ) => little classical
+      nicer sweet easier sweeter musical romantic
+
+06... KEEP ( TRY_SOMETHING | DAY | THING ) => interesting try interested new
+      local windsurfing
+
+07... DO BECOME ( PLAN_MONSTER ) => planning
+
+08... END -- SPEND ( SUMMER | DAY ) => lazy romantic
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 2423.90299 ms                                                          |
+|                                                                              |
+| New concepts:  22                     Total concepts:  2173                  |
+| New relations: 438                    Total relations: 24137                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00081 ****************************
+********************************************************************************

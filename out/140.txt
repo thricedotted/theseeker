@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00034 ***************************
+********************************************************************************
+
+                      - RESPONDING TO FALSE ACCUSATIONS -                       
+
+00... ANALYZE ( PROBLEM | INCH | LIFE ) => communicative
+
+01... DECIDE -- LIKE ( ASPECT | PROBLEM | OUTCOME ) => possible incompetent
+
+02... FIND -- USED -- IS ( ADVOCATE | SPEECH | ANXIETY ) => fraught
+
+03... REALIZE -- ASK ( HELP ) => afraid
+
+04... QUIT -- START -- GIVE UP ( PROFESSION | PROCESS ) => !null
+
+05... CHOOSE -- MAKE -- WILL LEAD ( ONE_ASPECT | PROBLEM | LIST | STEP |
+      OUTCOME ) => !null
+
+06... GIVE UP GET -- DECIDE ( OUTCOME_DESIRE ) => willing right
+
+07... REQUIRE ( RESOLVE | SACRIFICE ) => !null
+
+08... TRY ( PLAN_SOLUTION ) => planned
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 10453.27783 ms                                                         |
+|                                                                              |
+| New concepts:  30                     Total concepts:  1448                  |
+| New relations: 366                    Total relations: 13595                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00034 ****************************
+********************************************************************************

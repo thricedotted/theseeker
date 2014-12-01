@@ -1,0 +1,61 @@
+********************************************************************************
+************************** BEGIN ACTIVITY LOG #00067 ***************************
+********************************************************************************
+
+                         - FINDING RIGHT GUY FOR YOU -                          
+
+00... ??? ( *** ) => impossible important
+
+01... IDENTIFY -- WANT ( MOST_IMPORTANT_TRAIT | PARTNER ) => superficial
+      sure obsessed important professional emotional physical
+
+02... LEARN ( PAST_RELATIONSHIP ) => past
+
+03... OPEN ( EYE ) => ideal right easier
+
+04... CONSIDER ( BLIND_DATE ) => blind best
+
+05... DATE -- LOOK ( WEBSITE_AND_MATCHMAKE_SERVICE ) => potential common
+      creepy online
+
+06... FLIRT -- PUT ( FACE ) => quick interested
+
+07... START ( CONVERSATION ) => afraid
+
+08... ACCEPT ( DATE_OFFER ) => open
+
+09... SPEND ( TIME | FAMILY_AND_FRIEND ) => !null
+
+10... TAKE -- DO -- LIKE DO -- MAKE -- CAN TOLERATE -- LIKE DO ( ACTIVITY |
+      SURE | THING ) => only sure
+
+11... OBSERVE ( BEHAVIOR | STRESSFUL_OR_CHALLENGE_SITUATION ) => able make
+      stressful challenging
+
+                                --- COMPLETE ---                                
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
+
+                                       *                                        
+
++-----------------------------[ ACTIVITY SUMMARY ]-----------------------------+
+| Time: 14766.43491 ms                                                         |
+|                                                                              |
+| New concepts:  34                     Total concepts:  1998                  |
+| New relations: 587                    Total relations: 21593                 |
++------------------------------------------------------------------------------+
+
+********************************************************************************
+*************************** END ACTIVITY LOG #00067 ****************************
+********************************************************************************
